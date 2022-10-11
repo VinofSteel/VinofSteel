@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black"/>
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=black"/>
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=axios&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=black"/>
 </div>
 
 <h3 style="text-align:center">Contact</h3>  
