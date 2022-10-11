@@ -10,6 +10,8 @@
 </h5>
 &nbsp;
 
+[![VinOfSteel's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinofSteel)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 style="text-align:center">Techs</h2>  
 
 <div style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
