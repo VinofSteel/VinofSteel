@@ -1,5 +1,5 @@
 <div> 
-  <h1> Hi! 😊 </h1>
+  <h1> Hello! </h1>
 </div>
 
 🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!   
