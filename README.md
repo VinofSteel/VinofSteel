@@ -3,7 +3,7 @@
 </div>
 
 🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!   
-📚 I'm a Fullstack Developer in training, currently developing my skills in ReactJS!
+📚 I'm a Front End Developer, looking for work!
 
 <h5> 
   My greatest passion is technology and the possibilities it opens to the world around us, specially the way I can use it to transform people's lives.
