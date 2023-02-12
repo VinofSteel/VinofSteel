@@ -11,9 +11,9 @@
 &nbsp;
 
 <div align="center">
-  
-[![VinOfSteel's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinofSteel&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinofSteel&layout=compact&theme=codeSTACKr&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinofSteel&count_private=true&show_icons=true&theme=codeSTACKr"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinofSteel&layout=compact&theme=codeSTACKr&langs_count=7"/>
   
 </div>
 
