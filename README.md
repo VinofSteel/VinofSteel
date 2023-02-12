@@ -10,9 +10,12 @@
 </h5>
 &nbsp;
 
+<div style="text-align:center">
 [![VinOfSteel's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinofSteel&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<h2 style="text-align:center">Techs</h2>  
+
+<h2 style="text-align:center">Stacks</h2>  
 
 <div style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032" alt='hard skills logo'/> 
