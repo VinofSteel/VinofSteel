@@ -20,7 +20,7 @@
 
 <h2 style="text-align:center">Stacks</h2>  
 
-<div style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
+<div align="center" style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032" alt='hard skills logo'/> 
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=E34F26" alt='hard skills logo'/>
   <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=1572B6" alt='hard skills logo'/>
