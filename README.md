@@ -1,9 +1,3 @@
-<style>
-   div {
-       color: blue;
-    }
-</style>
-
 <div>
     <h1> Hello! </h1>
 </div>
