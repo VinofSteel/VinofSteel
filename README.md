@@ -1,38 +1,34 @@
-    <style>
-        div {
-            color: blue;
-        }
-    </style>
+<style>
+   div {
+       color: blue;
+    }
+</style>
 
-    <div>
-        <h1> Hello! </h1>
-    </div>
+<div>
+    <h1> Hello! </h1>
+</div>
 
-    🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!
-    📚 Full Stack Developer, currently working primarily as a Node.js Backend Developer with a MaaS (urban transport
-    integrator) API!
+🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!
+📚 Full Stack Developer, currently working primarily as a Node.js Backend Developer with a MaaS (urban transport
+integrator) API!
 
-    <h5>
-        My greatest passion is technology and the possibilities it opens to the world around us, specially the way I can
-        use it to transform people's lives.
-    </h5>
-    &nbsp;
+<h5>
+   My greatest passion is technology and the possibilities it opens to the world around us, specially the way I can
+   use it to transform people's lives.
+</h5>
+&nbsp;
 
-    <div align="center">
+<div align="center">
+   <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=VinofSteel&count_private=true&show_icons=true&theme=codeSTACKr" />
+   <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinofSteel&layout=compact&theme=codeSTACKr&langs_count=7" />
+</div>
 
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=VinofSteel&count_private=true&show_icons=true&theme=codeSTACKr" />
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinofSteel&layout=compact&theme=codeSTACKr&langs_count=7" />
+<h2 style="text-align:center">Stacks</h2>
 
-    </div>
-
-
-
-    <h2 style="text-align:center">Stacks</h2>
-
-    <h3 style="text-align:center">General</h2>
-        <div align="center"
+<h3 style="text-align:center">General</h2>
+    <div align="center"
             style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
             <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=F05032"
                 alt='hard skills logo' />
@@ -46,7 +42,7 @@
                 alt='hard skills logo' />
         </div>
 
-        <h3 style="text-align:center">Frontend</h2>
+<h3 style="text-align:center">Frontend</h2>
             <div align="center"
                 style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
                 <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=E34F26"
@@ -69,7 +65,7 @@
                     alt='hard skills logo' />
             </div>
 
-            <h3 style="text-align:center">Backend</h2>
+  <h3 style="text-align:center">Backend</h2>
                 <div align="center"
                     style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8">
                     <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=white"
@@ -78,10 +74,10 @@
                         alt='hard skills logo' />
                 </div>
 
-                <h2 style="text-align:center">Contact me!
+  <h2 style="text-align:center">Contact me!
             </h3>
 
-            <div>
+  <div>
                 <a href="https://www.linkedin.com/in/vinicius-fa-nascimento/" target="_blank"><img loading="lazy"
                         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                         target="_blank"></a>
