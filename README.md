@@ -3,8 +3,7 @@
 </div>
 
 🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!
-📚 Full Stack Developer, currently working primarily as a Node.js Backend Developer with a MaaS (urban transport
-integrator) API!
+📚 Full Stack Developer, currently working primarily as a Node.js Backend Developer with statistics!
 
 <h5>
    My greatest passion is technology and the possibilities it opens to the world around us, specially the way I can
