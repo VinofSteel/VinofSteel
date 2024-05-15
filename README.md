@@ -65,6 +65,10 @@
                         alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express.js&logoColor=2361DAFB"
                         alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/Gin-101010?style=for-the-badge&logo=gin&logoColor=008ECF"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=gin&logoColor=2496ED"
+                        alt='hard skills logo' />
                 </div>
 
   <h2 style="text-align:center">Contact me!
