@@ -33,6 +33,8 @@
                 alt='hard skills logo' />
             <img src="https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=2300ADD8"
                 alt='hard skills logo' />
+            <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=777BB4"
+                alt='hard skills logo' />
         </div>
 
 <h3 style="text-align:center">Frontend</h2>
@@ -74,6 +76,8 @@
                     <img src="https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=2361DAFB"
                         alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=2361DAFB"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/Laravel-101010?style=for-the-badge&logo=laravel&logoColor=FF2D20"
                         alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=092E20"
                         alt='hard skills logo' />
