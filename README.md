@@ -65,7 +65,17 @@
                         alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Express.js-101010?style=for-the-badge&logo=express&logoColor=2361DAFB"
                         alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=092E20"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/Flask-101010?style=for-the-badge&logo=flask&logoColor=2361DAFB"
+                        alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Gin-101010?style=for-the-badge&logo=gin&logoColor=008ECF"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=4169E1"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1"
+                        alt='hard skills logo' />
+                    <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=47A248"
                         alt='hard skills logo' />
                     <img src="https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=2496ED"
                         alt='hard skills logo' />
