@@ -3,7 +3,7 @@
 </div>
 
 🏙 I'm Vinicius, I live in São Paulo - SP - Brasil!
-📚 Full Stack Developer, currently working primarily as a Node.js Backend Developer with statistics!
+📚 Full Stack Developer, currently working professionaly in two projects, one using Laravel and Vue.js, and another using Golang and Nordic (React.js library)!
 
 <h5>
    My greatest passion is technology and the possibilities it opens to the world around us, specially the way I can
